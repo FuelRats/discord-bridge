@@ -1,0 +1,3 @@
+VERSION_NUM = '0.0.1'
+BUILD = 'Dev'
+VERSION = VERSION_NUM + ' ' + BUILD
